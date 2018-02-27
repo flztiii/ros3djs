@@ -165,3 +165,5 @@ ROS3D.closestAxisPoint = function(axisRay, camera, mousePos) {
 
   return ROS3D.findClosestPoint(axisRay, mpRay);
 };
+
+export default ROS3D
